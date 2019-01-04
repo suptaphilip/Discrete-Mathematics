@@ -16,7 +16,7 @@
 
 ```
 
-[Course outline]()
+[Course outline](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/OBC%20CSE%20307%20Discrete%20Math.pdf)
 
 ### Lecture Note
 [Note]()
