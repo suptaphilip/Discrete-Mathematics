@@ -22,7 +22,7 @@
 [Note]()
 
 ### Previous Questions
-[Summer Mid 2018]()
+[Summer Mid 2018](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/CSE%20307%20Discrete%20Mathematics%20Summer%202018.pdf)
 
 [Summer Final 2018]()
 
