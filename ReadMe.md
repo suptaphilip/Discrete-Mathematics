@@ -31,7 +31,7 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/CityUniversity-Discrete-Math/raw/master/Rosen-Ed7.pdf) 
+> [Text Book](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/Rosen-Ed7.pdf) 
 
 
 
