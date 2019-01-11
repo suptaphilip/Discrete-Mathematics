@@ -1,6 +1,7 @@
 
 # City university
 
+## [Home](https://suptaphilip.github.io/)
 
 ## CSE 307 Discrete Mathematics
 
@@ -10,7 +11,7 @@
 
 ```diff
 + Quiz 1 Date: 11.01.2019
-
++ Quiz 2 Date: 18.01.2019
 
 - Assignment 1 Submission Date: 
 
