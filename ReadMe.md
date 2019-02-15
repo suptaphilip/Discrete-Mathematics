@@ -32,7 +32,14 @@
 
 
 ### Books
-> [Text Book](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/Rosen-Ed7.pdf) 
+> [Discrete mathematics and its applications by Kenneth H. Rosen, 7th Edition](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/Rosen-Ed7.pdf)
+
+> [Discrete mathematics and its applications by Kenneth H. Rosen, 7th Edition, Exercise Solution]() 
+
+### Reference Books
+> [Schaum's Outline of Discrete Mathematics 2nd Edition](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/DM%20Schaums%20Second%20Edition%20.pdf) 
+
+> [Schaum's Outline of Discrete Mathematics 3rd Edition](https://github.com/suptaphilip/Discrete-Mathematics/raw/Fall2018/DM%20Schaums%20Third%20Edition%20.pdf) 
 
 
 
